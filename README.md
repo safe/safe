@@ -1,6 +1,5 @@
 ### Hey 👋🏼
-I'm Joe, a systems reliability engineer primarily around compute and storage technologies.
-
+I'm Joe, a systems reliability engineer primarily focusing on compute and storage technologies and am based in London, UK
 #### Languages
 * PowerShell
 * Python
