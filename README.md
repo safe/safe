@@ -8,7 +8,9 @@ I'm Joe, a systems reliability engineer based in London, UK primarily focusing o
 * PowerShell
 * Python
 
-I'm planning/starting to learn:
+I'm currently learning:
 * JavaScript
+
+I'm planning to learn:
 * Go
 * Ruby
