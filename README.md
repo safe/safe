@@ -14,3 +14,5 @@ I'm currently learning:
 I'm planning to learn:
 * Go
 * Ruby
+
+[![HitCount](http://hits.dwyl.com/safe/safe/safe.svg)](http://hits.dwyl.com/safe/safe/safe)
