@@ -14,6 +14,3 @@ I'm currently learning:
 What's on my list to learn next?
 * Go
 * Ruby
-
-#### Visitor Count
-<img src="https://profile-counter.glitch.me/safe/count.svg" />
