@@ -1,7 +1,7 @@
 > It’s not a bug - it’s an undocumented feature
 
 ## Hey 👋🏼 
-I'm Joe, a systems reliability engineer based in London, UK primarily focusing on compute and storage technologies.
+I'm Joe, I'm based in London, UK.
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
