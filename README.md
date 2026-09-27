@@ -1,6 +1,8 @@
-# <img src="vault.png" width="28"> Joe Safe
+<img src="vault.png" width="64">
 
 ## 👋
+
+# Joe Safe
 
 I'm a father to two and husband to one who writes some software.
 
