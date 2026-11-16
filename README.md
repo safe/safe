@@ -6,5 +6,5 @@
   <img src="vault-dark.png" width="96" alt="A locked safe dial">
 </picture>
 
-👋
+<img src="wave.svg" width="32" alt="👋">
 </div>
